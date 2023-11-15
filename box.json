@@ -28,7 +28,6 @@
         {"key":"荐片","name":"🐼荐片┃影视","type":3,"api":"./js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
         {"key":"豆瓣","name":"💓豆瓣┃推荐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣.js"},
         {"key":"急救","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
-
         {"key":"TVB","name":"📺TVB┃云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xbpq/TVB云播.json"},
         {"key":"360","name":"🐵360┃影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
         {"key":"555","name":"💎555┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xyqh/555影视.json"},
@@ -93,7 +92,6 @@
         {"key":"FreeOK","name":"👌FreeOK┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"./xbpq/FreeOK.json"},
         {"key":"emofun","name":"😀EmoFun┃应用","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://one3.emofun.top/mogai_api.php/v1.vod"},
 		{"key":"影探VIP","name":"🐾影探VIP┃应用","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
-
         {"key":"哔哩幼儿","name":"📚幼儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/幼儿教育.json"},
         {"key":"哔哩少儿","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/少儿教育.json"},
         {"key":"哔哩小学","name":"📚小学┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./bili/小学教育.json"},
@@ -104,10 +102,8 @@
         {"key":"兔小贝1","name":"🐰兔小贝1┃儿童","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xyqh/兔小贝.json"},
         {"key":"兔小贝2","name":"🐰兔小贝2┃儿童","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xyqh/兔小贝2.json"},
         {"key":"播视童趣","name":"🐰播视童趣┃儿童","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xyqh/播视童趣.json"},
-
         {"key":"ysxsw","name":"🎧小说吧┃有声","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xyqh/有声小说吧.json"},
         {"key":"听书网","name":"🎧听书┃有声","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xbpq/听书网.json"},
-
         {"key":"JRKAN","name":"😘JRKAN┃直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/JRKAN直播.js"},
         {"key":"哔哩","name":"🅱哔哩┃直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/哔哩直播.js"},
         {"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":0,"filterable":0,"ext":"./xyqh/虎牙直播.json"},
