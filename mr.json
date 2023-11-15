@@ -1,0 +1,33 @@
+{
+    "urls":[
+        // {
+        //     "url":"clan://localhost/box.json",
+        //     "name":"香雅情本地(海阔推送)",
+        //     "time":"2023-04-19"
+        // },
+        {
+            "url":"https://gh-proxy.com/raw.githubusercontent.com/qiuhlee/tvbox/box.json",
+            "name":"我的精选"
+        },
+        {
+            "url":"https://gh-proxy.com/raw.githubusercontent.com/qiuhlee/tvbox/box18.json",
+            "name":"tvbox18"
+        },
+        {
+            "url":"http://刚刚.live/猫",
+            "name":"刚刚"
+        },
+        {
+            "url":"http://饭太硬.top/tv",
+            "name":"饭太硬"
+        },
+        {
+            "url":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name":"PizazzGY"
+        },
+        {
+            "url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name":"Yoursmile"
+        }
+    ]
+}
